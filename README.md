@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">Software Engineer | Ex Amazon</h3>
+<h3 align="center">Back End Developer (Java, Node.js, Typescript, Go) | Ex Amazon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsydorowicz21&label=Profile%20views&color=0e75b6&style=flat" alt="jsydorowicz21" /> </p>
 
