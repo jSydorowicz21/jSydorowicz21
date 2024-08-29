@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Goanda](https://github.com/AwolDes/goanda)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **GCP**
 
 - ⚡ Fun fact **I also run an Esports Org, @eternalfocusesp**
 
